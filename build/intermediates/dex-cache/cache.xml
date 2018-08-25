@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\megasync\thinkcoding\devproject\devProjectGit\arduino_esp8266_node_mcu_exam\AndroidTelnet-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="G:\megasync\thinkcoding\devproject\devProjectGit\arduino_esp8266_node_mcu_exam\AndroidTelnet-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-c565cb85d5830a328d4f740100b94e6bf870607e.jar" />
+    </item>
+    <item
+        jar="G:\devProjectGit\arduino_esp8266_node_mcu_exam\AndroidTelnet-master\app\libs\commons-net-3.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cd0d5510908225f76c5fe5a3f1df4fa44866f81e">
+        <dex dex="G:\devProjectGit\arduino_esp8266_node_mcu_exam\AndroidTelnet-master\app\build\intermediates\pre-dexed\debug\commons-net-3.3-7ab5607f7de492009986b29605faed0800c67193.jar" />
+    </item>
+    <item
+        jar="G:\devProjectGit\arduino_esp8266_node_mcu_exam\AndroidTelnet-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="G:\devProjectGit\arduino_esp8266_node_mcu_exam\AndroidTelnet-master\app\build\intermediates\pre-dexed\debug\classes-88630ec0a4641f53b96480ffb1670f76154fc336.jar" />
+    </item>
+    <item
+        jar="G:\megasync\thinkcoding\devproject\devProjectGit\arduino_esp8266_node_mcu_exam\AndroidTelnet-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="G:\megasync\thinkcoding\devproject\devProjectGit\arduino_esp8266_node_mcu_exam\AndroidTelnet-master\app\build\intermediates\pre-dexed\debug\classes-7c0ab166ad39aadc18fc2df1e448b438cb351fe6.jar" />
+    </item>
+    <item
+        jar="G:\megasync\thinkcoding\devproject\devProjectGit\arduino_esp8266_node_mcu_exam\AndroidTelnet-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="G:\megasync\thinkcoding\devproject\devProjectGit\arduino_esp8266_node_mcu_exam\AndroidTelnet-master\app\build\intermediates\pre-dexed\debug\classes-5a55d832abbc700cd6a9f8ad25dd0aec7b7b2a60.jar" />
+    </item>
+    <item
+        jar="G:\megasync\thinkcoding\devproject\devProjectGit\arduino_esp8266_node_mcu_exam\AndroidTelnet-master\app\libs\commons-net-3.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cd0d5510908225f76c5fe5a3f1df4fa44866f81e">
+        <dex dex="G:\megasync\thinkcoding\devproject\devProjectGit\arduino_esp8266_node_mcu_exam\AndroidTelnet-master\app\build\intermediates\pre-dexed\debug\commons-net-3.3-b306760723806d1f61b5b9ce1cd9ac9cd5dae76b.jar" />
+    </item>
+    <item
+        jar="G:\devProjectGit\arduino_esp8266_node_mcu_exam\AndroidTelnet-master\app\libs\ion-2.0.5.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="49b5ebbf495380f27dd1986d0b5e5d86c18465a7">
+        <dex dex="G:\devProjectGit\arduino_esp8266_node_mcu_exam\AndroidTelnet-master\app\build\intermediates\pre-dexed\debug\ion-2.0.5-b3e83e4935392a34013d4d3c924c6f51181c79cc.jar" />
+    </item>
+    <item
+        jar="G:\megasync\thinkcoding\devproject\devProjectGit\arduino_esp8266_node_mcu_exam\AndroidTelnet-master\app\libs\ion-2.0.5.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="49b5ebbf495380f27dd1986d0b5e5d86c18465a7">
+        <dex dex="G:\megasync\thinkcoding\devproject\devProjectGit\arduino_esp8266_node_mcu_exam\AndroidTelnet-master\app\build\intermediates\pre-dexed\debug\ion-2.0.5-19627796e0ce144fa2bcb076bd670f8d75022c04.jar" />
+    </item>
+    <item
+        jar="G:\devProjectGit\arduino_esp8266_node_mcu_exam\AndroidTelnet-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="G:\devProjectGit\arduino_esp8266_node_mcu_exam\AndroidTelnet-master\app\build\intermediates\pre-dexed\debug\classes-d469132a171cafb7062ac1204472a257b128c8f3.jar" />
+    </item>
+    <item
+        jar="G:\devProjectGit\arduino_esp8266_node_mcu_exam\AndroidTelnet-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="G:\devProjectGit\arduino_esp8266_node_mcu_exam\AndroidTelnet-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-29b3a5a5e9a4fcd98a526a98bd4a75a4829edac4.jar" />
+    </item>
+    <item
+        jar="C:\Users\KimFamily\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="G:\devProjectGit\arduino_esp8266_node_mcu_exam\AndroidTelnet-master\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-973380423ff7f38d4fdfc5c86ea84cf36258b05c.jar" />
+    </item>
+
+</items>

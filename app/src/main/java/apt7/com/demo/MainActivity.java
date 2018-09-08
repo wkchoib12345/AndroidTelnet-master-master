@@ -44,10 +44,15 @@ public class MainActivity extends ActionBarActivity {
     private boolean isOpenPermission=false;
     private RequestPermission _requestPermission;
 
+
+    //공기청정기 변수들
+    EditText start;
+    EditText end;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
 
 
 
@@ -59,7 +64,21 @@ public class MainActivity extends ActionBarActivity {
         serverPref = new ServerPref(this);
         mHandler = new Handler();
 
-        button = (Button) findViewById(R.id.button);
+        button = (Button) findViewById(R.id.button1234);
+        button.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                if (editText2.getText().toString().replaceAll("\\s", "").length() == 0) {
+                    showAlertEmpty();
+                } else {
+                    send();
+                }
+//                Intent intent = new Intent(MainActivity.this, MainActivity2.class);
+//                intent.setFlags(intent.FLAG_ACTIVITY_NO_ANIMATION);
+//                startActivity(intent);
+
+            }
+        });
+
 
         if (utils.isConnectedMobile() || utils.isConnectedWifi()) {
             runApp();
@@ -71,10 +90,11 @@ public class MainActivity extends ActionBarActivity {
             public void onClick(View v) {
                 editText1.setText("");
                 connect();
-                Toast.makeText(getApplicationContext(),telnet+"",Toast.LENGTH_LONG).show();
+                //Toast.makeText(getApplicationContext(),telnet+"",Toast.LENGTH_LONG).show();
                 findViewById(R.id.button2).setEnabled(true);
             }
         });
+
 
         findViewById(R.id.button2).setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
@@ -82,11 +102,23 @@ public class MainActivity extends ActionBarActivity {
             }
         });
 
+//        String a = "1234";
+//        Toast.makeText(this, a , Toast.LENGTH_SHORT).show();
 
 
+        editText1.setText("");
+        connect();
+//        Toast.makeText(getApplicationContext(),telnet+"",Toast.LENGTH_LONG).show();
+        findViewById(R.id.button2).setEnabled(true);
 
 
+        start = (EditText) findViewById(R.id.start);
+        end = (EditText) findViewById(R.id.end);
+        String b = start.getText().toString();
+        Toast.makeText(getApplicationContext(),b,Toast.LENGTH_LONG).show();
     }
+    //onCreate 끝
+
 
 
 
@@ -115,15 +147,7 @@ public class MainActivity extends ActionBarActivity {
     }
 
     private void runApp() {
-        button.setOnClickListener(new View.OnClickListener() {
-            public void onClick(View v) {
-                if (editText2.getText().toString().replaceAll("\\s", "").length() == 0) {
-                    showAlertEmpty();
-                } else {
-                    send();
-                }
-            }
-        });
+
 
         editText2.setOnEditorActionListener(new TextView.OnEditorActionListener() {
             @Override
@@ -233,7 +257,8 @@ public class MainActivity extends ActionBarActivity {
 
         public void run() {
 //            telnet.out.println(editText2.getText().toString());
-            telnet.out.println("가나다");
+            String b = start.getText().toString();
+            telnet.out.println(b);
 
             telnet.out.flush();
         }

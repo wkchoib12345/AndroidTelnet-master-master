@@ -64,12 +64,12 @@
         "source": "C:\\Users\\think_coding\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\958c8907e2870a611f4fb8c3b91d980f\\res\\drawable-mdpi\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\think_coding\\Downloads\\AndroidTelnet-master-master\\AndroidTelnet-master-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_search_api_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\think_coding\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\958c8907e2870a611f4fb8c3b91d980f\\res\\drawable-mdpi\\abc_ic_search_api_mtrl_alpha.png"
-    },
-    {
         "merged": "C:\\Users\\think_coding\\Downloads\\AndroidTelnet-master-master\\AndroidTelnet-master-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_toolbar.xml.flat",
         "source": "C:\\Users\\think_coding\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\958c8907e2870a611f4fb8c3b91d980f\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\think_coding\\Downloads\\AndroidTelnet-master-master\\AndroidTelnet-master-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\think_coding\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\958c8907e2870a611f4fb8c3b91d980f\\res\\drawable-mdpi\\abc_ic_search_api_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\think_coding\\Downloads\\AndroidTelnet-master-master\\AndroidTelnet-master-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_clear_mtrl_alpha.png.flat",
@@ -92,12 +92,12 @@
         "source": "C:\\Users\\think_coding\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\958c8907e2870a611f4fb8c3b91d980f\\res\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\think_coding\\Downloads\\AndroidTelnet-master-master\\AndroidTelnet-master-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
-        "source": "C:\\Users\\think_coding\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\958c8907e2870a611f4fb8c3b91d980f\\res\\drawable-ldrtl-mdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
-    },
-    {
         "merged": "C:\\Users\\think_coding\\Downloads\\AndroidTelnet-master-master\\AndroidTelnet-master-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_list_focused_holo.9.png.flat",
         "source": "C:\\Users\\think_coding\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\958c8907e2870a611f4fb8c3b91d980f\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\think_coding\\Downloads\\AndroidTelnet-master-master\\AndroidTelnet-master-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\think_coding\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\958c8907e2870a611f4fb8c3b91d980f\\res\\drawable-ldrtl-mdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
     },
     {
         "merged": "C:\\Users\\think_coding\\Downloads\\AndroidTelnet-master-master\\AndroidTelnet-master-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
@@ -108,12 +108,12 @@
         "source": "C:\\Users\\think_coding\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\958c8907e2870a611f4fb8c3b91d980f\\res\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\think_coding\\Downloads\\AndroidTelnet-master-master\\AndroidTelnet-master-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\think_coding\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\958c8907e2870a611f4fb8c3b91d980f\\res\\drawable-xxxhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
-    },
-    {
         "merged": "C:\\Users\\think_coding\\Downloads\\AndroidTelnet-master-master\\AndroidTelnet-master-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\think_coding\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\958c8907e2870a611f4fb8c3b91d980f\\res\\drawable-mdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\think_coding\\Downloads\\AndroidTelnet-master-master\\AndroidTelnet-master-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\think_coding\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\958c8907e2870a611f4fb8c3b91d980f\\res\\drawable-xxxhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\think_coding\\Downloads\\AndroidTelnet-master-master\\AndroidTelnet-master-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
@@ -192,12 +192,12 @@
         "source": "C:\\Users\\think_coding\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\958c8907e2870a611f4fb8c3b91d980f\\res\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\think_coding\\Downloads\\AndroidTelnet-master-master\\AndroidTelnet-master-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_settings.xml.flat",
-        "source": "C:\\Users\\think_coding\\Downloads\\AndroidTelnet-master-master\\AndroidTelnet-master-master\\app\\src\\main\\res\\menu\\menu_settings.xml"
-    },
-    {
         "merged": "C:\\Users\\think_coding\\Downloads\\AndroidTelnet-master-master\\AndroidTelnet-master-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\think_coding\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.0.aar\\958c8907e2870a611f4fb8c3b91d980f\\res\\drawable-mdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\think_coding\\Downloads\\AndroidTelnet-master-master\\AndroidTelnet-master-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_settings.xml.flat",
+        "source": "C:\\Users\\think_coding\\Downloads\\AndroidTelnet-master-master\\AndroidTelnet-master-master\\app\\src\\main\\res\\menu\\menu_settings.xml"
     },
     {
         "merged": "C:\\Users\\think_coding\\Downloads\\AndroidTelnet-master-master\\AndroidTelnet-master-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_list_pressed_holo_dark.9.png.flat",

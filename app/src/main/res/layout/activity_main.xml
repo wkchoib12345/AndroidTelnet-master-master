@@ -42,6 +42,8 @@
         android:orientation="horizontal">
 
 
+
+
         <ScrollView
             android:id="@+id/scrollView"
             android:layout_width="match_parent"
@@ -99,10 +101,25 @@
             android:layout_height="wrap_content"
             android:layout_weight="80"
             android:singleLine="true"
-            android:text=""
             android:hint="명령 입력"
             android:textColor="@color/ripple_material_light" />
-
+        <EditText
+            android:id="@+id/start"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="80"
+            android:singleLine="true"
+            android:text="dddd"
+            android:hint="시작 시간"
+        android:textColor="@color/ripple_material_light" />
+        <EditText
+            android:id="@+id/end"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="80"
+            android:singleLine="true"
+            android:hint="종료 시간"
+            android:textColor="@color/ripple_material_light" />
         <LinearLayout
             android:id="@+id/id3"
             android:layout_width="0dp"
@@ -112,7 +129,7 @@
             android:orientation="horizontal">
 
             <Button
-                android:id="@+id/button"
+                android:id="@+id/button1234"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:background="@android:color/transparent"

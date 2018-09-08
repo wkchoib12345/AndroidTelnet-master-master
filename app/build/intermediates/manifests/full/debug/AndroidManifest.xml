@@ -33,6 +33,11 @@
             android:label="@string/title_activity_settings"
             android:screenOrientation="sensorPortrait" >
         </activity>
+        <activity
+            android:name="apt7.com.demo.MainActivity2"
+            android:label="@string/title_activity_settings"
+            android:screenOrientation="sensorPortrait" >
+        </activity>
     </application>
 
 </manifest>
